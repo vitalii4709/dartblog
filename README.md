@@ -15,4 +15,4 @@ This is the code repo for the Blog App with Django.
 - Visit the app: <http://127.0.0.1:8000/>
 - Visit admin account: <http://127.0.0.1:8000/admin>
 	login: admin
-	passvord: 111111
+	password: 111111
