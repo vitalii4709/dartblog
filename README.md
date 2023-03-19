@@ -9,7 +9,7 @@ This is the code repo for the Blog App with Django.
 
 ## Installation
 
-- Clone the repo: `git clone git@github.com:vitalii4709/dartblog`
+- Clone the repo: `git clone https://github.com/vitalii4709/dartblog.git`
 - Go into the repo: `cd dartblog\siteblog`
 - Start the app: `python manage.py runserver`
 - Visit the app: <http://127.0.0.1:8000/>
